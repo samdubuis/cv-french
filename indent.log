@@ -1,0 +1,29 @@
+INFO: latexindent version 3.5, 2018-08-13, a script to indent .tex files
+      latexindent lives here: /usr/share/texlive/texmf-dist/scripts/latexindent/
+      Thu Dec  6 11:17:14 2018
+      Filename: resume/experience.tex
+INFO: Processing switches:
+      -w|--overwrite: Overwrite mode active, will make a back up of resume/experience.tex first
+      -m|--modifylinebreaks: modify line breaks
+INFO: Directory for backup files and indent.log: resume
+INFO: YAML settings read: defaultSettings.yaml
+      Reading defaultSettings.yaml from /usr/share/texlive/texmf-dist/scripts/latexindent/defaultSettings.yaml
+INFO: YAML settings read: indentconfig.yaml or .indentconfig.yaml
+      Home directory is /home/samuel (didn't find either indentconfig.yaml or .indentconfig.yaml)
+      To specify user settings you would put indentconfig.yaml here: /home/samuel/indentconfig.yaml
+      Alternatively, you can use the hidden file .indentconfig.yaml as: /home/samuel/.indentconfig.yaml
+INFO: Backup procedure (-w flag active):
+      resume/experience.bak0 already exists, incrementing by 1... (see maxNumberOfBackUps and onlyOneBackUp)
+      resume/experience.bak1 already exists, incrementing by 1... (see maxNumberOfBackUps and onlyOneBackUp)
+      copying resume/experience.tex to resume/experience.bak2
+      Backup file: resume/experience.bak2
+      resume/experience.tex will be overwritten after indentation
+INFO: Phase 1: searching for objects
+INFO: Phase 2: finding surrounding indentation
+INFO: Phase 3: indenting objects
+INFO: Phase 4: final indentation check
+INFO: Output routine:
+      Overwriting file resume/experience.tex
+      --------------
+INFO: Please direct all communication/issues to:
+      https://github.com/cmhughes/latexindent.pl

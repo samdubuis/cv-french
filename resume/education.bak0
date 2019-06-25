@@ -1,0 +1,46 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Formation}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+ 
+\cventry
+{Maturité Gymnasiale}
+{Lycée-Collège des Creusets}
+{Sion, Valais, Suisse}
+{Septembre 2009 -- Juillet 2015}
+{
+	\begin{cvitems}
+	\item{Mathématiques fortes, Option spécifique Physique-Application des maths, Option complémentaire Informatique} 
+	\end{cvitems}
+    }
+    
+\cventry
+{Année aux USA}
+{Catholic High School for Boys}
+{Little Rock, Arkansas, USA}
+{Août 2011 -- Août 2012}
+{\begin{cvitems}
+\item{Joueur de l'équipe de basket de l'école}
+\end{cvitems}}
+
+\cventry{Bachelor en Systèmes de Communication}
+{École Polytechnique Fédérale de Lausanne}
+{Lausanne, Vaud, Suisse}
+{Septembre 2015 -- présent}{
+  \begin{cvitems}
+  \item{Filière Informatique Visuelle}
+  \end{cvitems}
+  }
+
+   
+
+%---------------------------------------------------------
+\end{cventries}

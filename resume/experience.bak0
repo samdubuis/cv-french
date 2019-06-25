@@ -1,0 +1,51 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Expérience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------    
+\cventry
+{Barman}
+{Restaurant La Rose des Vents}
+{1950 Sion, Valais, Suisse}
+{Juillet -- Août 2012}
+{\begin{cvitems}
+	\item{Travail d'été pour étudiant}
+ \end{cvitems}}
+
+\cventry
+{Ouvrier}
+{Télé Leysin-Col des Mosses-La Lécherette SA}
+{Leysin, Vaud, Suisse}
+{Juillet -- Août 2013}
+{\begin{cvitems}
+	\item{Travail d'été pour étudiant qui concernait l'entretien de la station et des remontées mécaniques}
+\end{cvitems}}
+
+\cventry
+{Poseur-Livreur}
+{AJD Cuisines et Bains Sàrl}
+{Sion, Valais, Suisse}
+{Juin 2014 -- présent}
+{\begin{cvitems}
+	\item{Travail d'été pour étudiant qui concernait la livraison et la pose de cuisines et de salles de bains, ainsi que des travaux de Service Après Vente}
+\end{cvitems}}
+
+\cventry
+{Assistant-étudiant}
+{École Polytechnique Fédérale de Lausanne}
+{Lausanne, Vaud, Suisse}
+{Février 2018 -- présent}
+{\begin{cvitems}
+	\item{Assistant lors de sessions de projet pour le cours d'Introduction à l'Informatique Visuelle}
+\end{cvitems}}
+
+
+%---------------------------------------------------------
+\end{cventries}
